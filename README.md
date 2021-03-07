@@ -5,7 +5,7 @@
 2.POM File and run as-->Maven Test
 
 Report
-Go to Email Report: /AmazonAppTestAutomation/test-output/emailable-report.html
+Go to Email Report: /TradelingTestAutomation/test-output/emailable-report.html
 E2E testing with Appiumm
 Prequisites
 Install ANDROID SDK (Studio)
